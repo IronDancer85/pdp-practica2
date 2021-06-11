@@ -4,11 +4,13 @@
 
 # .NET Microservices Sample Reference Application
 
+
 Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
 
 ![](img/eshop-webmvc-app-screenshot.png)
 
 ## Build Status (GitHub Actions)
+## Build Status (Este es un cambio menor de codificación en VS COde)
 
 | Image | Status | Image | Status |
 | ------------- | ------------- | ------------- | ------------- |

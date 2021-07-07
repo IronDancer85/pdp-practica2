@@ -51,6 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Ejemplo de clase para Desarrollo de aplicaciones empresariales...
+*.yaml*
 
 
 # Agregando cambios al git ignore
